@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'janedoe.test@gmail.com',
-    phone: '+915588776600',
-    address: 'Menlo Park, California, United States - 673822 ',
+    email: 'harisbro88@gmail.com',
+    phone: '+92 308 1355815',
+    address: 'Lahore, Pakistan ',
 
-    sheetAPI: ''
+    sheetAPI: 'https://api.mailslurp.com/sendEmail?apiKey=034997c510919d690ec741e3f6ecc87cd5893729642dddbe8fc85f00c26f2373'
 }
