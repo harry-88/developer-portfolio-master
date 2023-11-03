@@ -83,8 +83,8 @@ export const skillsImage = (skill) => {
             return gcp;
         case 'html':
             return html;
-        case 'photoshop':
-            return photoshop;
+            case 'photoshop':
+                return photoshop;
         case 'docker':
             return docker;
         case 'illustrator':

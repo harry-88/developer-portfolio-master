@@ -5,9 +5,12 @@
     'CSS',
     'React',
     'Next JS',
+    'Node JS',
     'Bootstrap',
     'Java',
     'PHP',
+    'MySQL',
+    'AWS',
     'MySQL'
 ]
 

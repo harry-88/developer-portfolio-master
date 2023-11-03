@@ -1,5 +1,19 @@
 export const experienceData = [
+    
     {
+        id: 4,
+        company: 'Nowasys service LTD',
+        jobtitle: 'Software engineer',
+        startYear: '2023',
+        endYear: 'Present'
+    },
+    {
+        id: 3,
+        company: 'Ezwage Private Limited',
+        jobtitle: 'React Developer',
+        startYear: '2022',
+        endYear: '2023'
+    },{
         id: 1,
         company: 'Freelance',
         jobtitle: 'Freelance',
@@ -12,12 +26,5 @@ export const experienceData = [
         jobtitle: 'Software Engineer',
         startYear: '2021',
         endYear: '2022'
-    },
-    {
-        id: 3,
-        company: 'Ezwage Private Limited',
-        jobtitle: 'React Developer',
-        startYear: '2022',
-        endYear: 'Present'
     },
 ]
